@@ -417,11 +417,11 @@ For questions, suggestions, or feedback, please open an issue on the repository.
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Anish Seth**
 
 *Discover the world, one coordinate at a time* 🌍
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](your-demo-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](your-repo-url)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://geo-finder-nine.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)]([your-repo-url](https://github.com/Anish-2005/GeoFinder))
 
 </div>
